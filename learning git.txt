@@ -4,3 +4,5 @@
      -cricket
      -football       
      -vollyball
+     -swimming
+     -kabaddi
