@@ -6,3 +6,6 @@
      -vollyball
      -swimming
      -kabaddi
+     -gilli danda
+     -hockey
+     -basketball
