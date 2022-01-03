@@ -8,3 +8,4 @@
      -kabaddi
      -gillidanda
      -hockey
+     -softball
